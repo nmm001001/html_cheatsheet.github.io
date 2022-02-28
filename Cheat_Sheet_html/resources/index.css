@@ -1,0 +1,20 @@
+* {
+    font-family: monospace, sans-serif;
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+}
+
+td {
+    margin: 5px;
+    line-height: 2;
+}
+
+header {
+    text-align: center;
+    font-size: 75px;
+    font-weight: bold;
+}
